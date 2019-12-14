@@ -564,8 +564,8 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[5]" type="UMLClassView" guid="nc+AU0Pq7UKDKgLa7UoG3QAA">
 <XPD:ATTR name="LineColor" type="string">$FFFFFFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">308</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">572</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">480</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">460</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:ATTR name="ShowOperationSignature" type="boolean">False</XPD:ATTR>
@@ -595,8 +595,8 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[6]" type="UMLClassView" guid="DhsC8kjgy0WB2hu8tZx5yAAA">
 <XPD:ATTR name="LineColor" type="string">$FFFFFFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">308</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">676</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">660</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">452</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">82</XPD:ATTR>
 <XPD:ATTR name="ShowOperationSignature" type="boolean">False</XPD:ATTR>
@@ -627,7 +627,7 @@
 <XPD:OBJ name="OwnedViews[7]" type="UMLGeneralizationView" guid="B4rUfv4Yf0exqGUBGbWpEgAA">
 <XPD:ATTR name="LineColor" type="string">$FFFFFFFF</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">368,572;368,533</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">480,493;428,493</XPD:ATTR>
 <XPD:REF name="Model">4eT1gEJUOkSPt7aNHCuMqQAA</XPD:REF>
 <XPD:REF name="Head">18XrEOMcZkGzroFIwLRS5gAA</XPD:REF>
 <XPD:REF name="Tail">nc+AU0Pq7UKDKgLa7UoG3QAA</XPD:REF>
@@ -653,7 +653,7 @@
 <XPD:OBJ name="OwnedViews[8]" type="UMLRealizationView" guid="yen70GJ380quX7TC62j6YgAA">
 <XPD:ATTR name="LineColor" type="string">$FFFFFFFF</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">368,676;368,640</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">660,493;600,494</XPD:ATTR>
 <XPD:REF name="Model">EjcBAQK6s0S3p/S06JvRZQAA</XPD:REF>
 <XPD:REF name="Head">nc+AU0Pq7UKDKgLa7UoG3QAA</XPD:REF>
 <XPD:REF name="Tail">DhsC8kjgy0WB2hu8tZx5yAAA</XPD:REF>
